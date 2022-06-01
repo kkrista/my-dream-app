@@ -1,0 +1,28 @@
+.app-servers {
+  background-color: rgb(60, 7, 69);
+}
+
+.app-servers * {
+  color:rgb(176, 100, 216);
+}
+
+button {
+  background-color: rgb(53, 37, 88);
+  margin-top: 12px;
+  padding: 12px;
+  margin-left: 15px;
+}
+
+label {
+  margin: 15px;
+}
+
+input {
+  margin: 15px;
+  width: 90%;
+}
+
+p {
+  margin-left: 13px;
+  font-weight: bold;
+}
