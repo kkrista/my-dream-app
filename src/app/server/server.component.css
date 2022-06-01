@@ -1,0 +1,12 @@
+/* h1 {
+  font-size: 1.5rem;
+} */
+
+.app-server {
+  background-color: rgb(56, 29, 103);
+  width: 90%;
+}
+
+.app-server * {
+  color: bisque;
+}
